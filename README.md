@@ -1,5 +1,6 @@
 
 سكريبت بلغة البايثون يضم مجموعة من فيروسات الاندرويد حيث يقوم بفهرستها
- للمزيد :
-	www.techni-world.com
+
+for more info : www.techni-world.com
+
 	
